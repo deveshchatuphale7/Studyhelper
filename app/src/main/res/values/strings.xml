@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <string name="app_name">Study helper</string>
+
+    <!-- Activity Titles -->
+    <string formatted="false" name="studyhelperMain">Study helper</string>
+    <string formatted="false" name="main1Activity">STUDY HELPER</string>
+    <string formatted="false" name="analysisActivity">Analysis</string>
+    <string formatted="false" name="subjectsActivity">subjects</string>
+    <string formatted="false" name="notesActivity">Notes</string>
+</resources>
+
+
